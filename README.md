@@ -122,9 +122,9 @@ the closest existing implementation is Unstructured's `by_title` chunker.
 
 ## Evidence
 
-Developed and measured in [Anneal](https://github.com/muditchoudhary/anneal), a
+Developed and measured in [Anneal](https://github.com/mudit-choudhary/Anneal), a
 local-first RAG pipeline. The
-[evaluation](https://github.com/muditchoudhary/anneal/blob/main/evals/Reports/Report.md)
+[evaluation](https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md)
 is pre-registered: metrics, tests and thresholds were fixed in writing before
 the run — 3 parsers × 3 chunkers, 400 questions over a 514-paper corpus, every
 comparison paired and corrected for multiplicity.
@@ -163,10 +163,11 @@ repository gives GitHub's "Cite this repository" button everything it needs:
 
 > Choudhary, M. (2026). *Grain-Growth Chunking: structure-aware document
 > chunking for retrieval* (version 1.0.0) [Software].
-> https://github.com/muditchoudhary/grain-growth-chunking
+> https://github.com/mudit-choudhary/grain-growth-chunking
+> ORCID: [0009-0003-8880-0925](https://orcid.org/0009-0003-8880-0925)
 
 The method and its measured results are in the
-[evaluation report](https://github.com/muditchoudhary/anneal/blob/main/evals/Reports/Report.md).
+[evaluation report](https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md).
 
 ## Licence
 

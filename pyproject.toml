@@ -25,8 +25,8 @@ dependencies = []                       # standard library only, on purpose
 test = ["pytest>=7"]
 
 [project.urls]
-Homepage = "https://github.com/muditchoudhary/grain-growth-chunking"
-Evaluation = "https://github.com/muditchoudhary/anneal/blob/main/evals/Reports/Report.md"
+Homepage = "https://github.com/mudit-choudhary/grain-growth-chunking"
+Evaluation = "https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]
