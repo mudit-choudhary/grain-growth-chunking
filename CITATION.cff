@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Grain-Growth Chunking: structure-aware document chunking for retrieval"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Choudhary
+    given-names: Mudit
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add yours if you have one
+repository-code: "https://github.com/muditchoudhary/grain-growth-chunking"
+url: "https://github.com/muditchoudhary/grain-growth-chunking"
+abstract: >-
+  A chunk grows by accepting the next block whole and keeps growing until it
+  reaches a size budget or meets a structural barrier — a section heading, or a
+  block that must stand alone such as a table. Barriers are absolute, so a chunk
+  never crosses one. Evaluated against fixed-token and recursive character
+  splitters in a pre-registered comparison over a 514-paper corpus.
+keywords:
+  - chunking
+  - retrieval-augmented generation
+  - information retrieval
+  - document structure
+license: Apache-2.0
+version: 1.0.0
+date-released: "2026-09-20"
+# doi: "10.5281/zenodo.XXXXXXX"    # added after the first Zenodo release

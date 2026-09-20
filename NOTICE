@@ -1,0 +1,11 @@
+Grain-Growth Chunking
+Copyright 2026 Mudit Choudhary
+
+Structure-aware document chunking: chunks grow along a document's own grain and
+never cross a structural barrier.
+
+Developed and evaluated in the Anneal project. The method and its measured
+results are described in:
+https://github.com/muditchoudhary/anneal/blob/main/evals/Reports/Report.md
+
+This product includes software developed by Mudit Choudhary.
