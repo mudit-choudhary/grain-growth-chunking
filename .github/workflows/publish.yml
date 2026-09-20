@@ -51,3 +51,9 @@ jobs:
           name: dist
           path: dist/
       - uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          # PyPI versions are immutable, so re-running this workflow for a
+          # version already uploaded would fail with "file already exists".
+          # Skipping keeps a re-run harmless — the version in pyproject.toml
+          # is what decides whether anything new is published.
+          skip-existing: true
