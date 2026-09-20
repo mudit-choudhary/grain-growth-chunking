@@ -22,4 +22,4 @@ keywords:
 license: Apache-2.0
 version: 1.0.0
 date-released: "2026-09-20"
-# doi: "10.5281/zenodo.XXXXXXX"    # added after the first Zenodo release
+doi: "10.5281/zenodo.22862100"          # concept DOI: always resolves to the latest version

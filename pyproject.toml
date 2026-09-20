@@ -26,6 +26,7 @@ test = ["pytest>=7"]
 
 [project.urls]
 Homepage = "https://github.com/mudit-choudhary/grain-growth-chunking"
+DOI = "https://doi.org/10.5281/zenodo.22862100"
 Evaluation = "https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md"
 
 [tool.setuptools.packages.find]

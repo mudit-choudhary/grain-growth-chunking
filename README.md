@@ -1,5 +1,9 @@
 # Grain-Growth Chunking
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22862100.svg)](https://doi.org/10.5281/zenodo.22862100)
+[![PyPI](https://img.shields.io/pypi/v/grain-growth-chunking.svg)](https://pypi.org/project/grain-growth-chunking/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+
 Structure-aware chunking for retrieval. A chunk grows by accepting the next
 block whole and keeps growing until it reaches the size budget **or meets a
 barrier** — a section heading, or a block that must stand alone such as a
@@ -162,9 +166,12 @@ If this is useful in your work, please cite it — `CITATION.cff` in this
 repository gives GitHub's "Cite this repository" button everything it needs:
 
 > Choudhary, M. (2026). *Grain-Growth Chunking: structure-aware document
-> chunking for retrieval* (version 1.0.0) [Software].
-> https://github.com/mudit-choudhary/grain-growth-chunking
-> ORCID: [0009-0003-8880-0925](https://orcid.org/0009-0003-8880-0925)
+> chunking for retrieval* (version 1.0.0) [Software]. Zenodo.
+> https://doi.org/10.5281/zenodo.22862100
+
+The DOI above always resolves to the newest version; cite
+[10.5281/zenodo.22862101](https://doi.org/10.5281/zenodo.22862101) for 1.0.0
+specifically. ORCID: [0009-0003-8880-0925](https://orcid.org/0009-0003-8880-0925).
 
 The method and its measured results are in the
 [evaluation report](https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md).

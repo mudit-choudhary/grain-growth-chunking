@@ -4,6 +4,8 @@ Copyright 2026 Mudit Choudhary <https://orcid.org/0009-0003-8880-0925>
 Structure-aware document chunking: chunks grow along a document's own grain and
 never cross a structural barrier.
 
+DOI: https://doi.org/10.5281/zenodo.22862100
+
 Developed and evaluated in the Anneal project. The method and its measured
 results are described in:
 https://github.com/mudit-choudhary/Anneal/blob/main/evals/Reports/Report.md
