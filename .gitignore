@@ -5,3 +5,12 @@ build/
 dist/
 *.egg-info/
 .venv/
+
+# LaTeX build products (paper.pdf is kept: it is the artefact)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk

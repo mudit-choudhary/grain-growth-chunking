@@ -165,8 +165,8 @@ pytest -q                      # 46 tests, no network, no parser needed
 If this is useful in your work, please cite it — `CITATION.cff` in this
 repository gives GitHub's "Cite this repository" button everything it needs:
 
-> Choudhary, M. (2026). *Grain-Growth Chunking: structure-aware document
-> chunking for retrieval* (version 1.0.0) [Software]. Zenodo.
+> Choudhary, M. (2026). *Grain-Growth Chunking: Structure-Aware Document
+> Chunking for Retrieval* (version 1.0.0) [Software]. Zenodo.
 > https://doi.org/10.5281/zenodo.22862100
 
 The DOI above always resolves to the newest version; cite
